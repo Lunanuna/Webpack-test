@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./Gugi/Gugi-Regular.ttf'),
+    url('./Moirai_One/MoiraiOne-Regular.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello{
+    color: rgba(1, 154, 65, 0.411);
+    font-family: 'MyFont';
+    background: url('./icon.jpeg');
+    font-size: 30px;
+}
